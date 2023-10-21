@@ -1,0 +1,11 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*swxniq*_ga*ODEyNzQ5MTU5My4xNjk3ODk4NDQ4*_ga_3LRZM6TM9L*MTY5NzkwNDY3Ny4yLjEuMTY5NzkwNDY4MS41Ni4wLjA.);
+}
