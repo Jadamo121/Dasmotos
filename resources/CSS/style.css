@@ -9,3 +9,26 @@ h1 {
   text-align: center;
   background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*swxniq*_ga*ODEyNzQ5MTU5My4xNjk3ODk4NDQ4*_ga_3LRZM6TM9L*MTY5NzkwNDY3Ny4yLjEuMTY5NzkwNDY4MS41Ni4wLjA.);
 }
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+span {
+  font-weight: bold;
+  color: blue;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
